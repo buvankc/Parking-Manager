@@ -11,7 +11,7 @@ class MAIN
         Thread.sleep(400);
         System.out.println("                                                         Designed By:Buvan KC");
         Thread.sleep(400);
-        System.out.println("                                                         Employee ID: X A3 11");
+        System.out.println("                                                         Employee ID: RVCE Chemical Engineering");
         Thread.sleep(5000);
         System.out.println("\u000C");
     }
